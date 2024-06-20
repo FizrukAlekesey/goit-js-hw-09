@@ -1,5 +1,5 @@
-import gallery from "./img/gallery.png";
-import form from "./img/form.png";
+import gallery from "./img/gallery2.png";
+import form from "./img/form2.png";
 
 document.querySelector("#app").innerHTML = `
 <h1 class="home-title">Welcom to Homework 9</h1>
